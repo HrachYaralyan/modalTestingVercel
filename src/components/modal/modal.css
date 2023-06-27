@@ -1,0 +1,25 @@
+.modal_wrapper{
+    width: 100%;
+    height: 100vh;
+    background: #0000004d;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: fixed;
+    top: 0;
+    left: 0;
+}
+.modal_wrapper_none{
+    display:none ;
+}
+
+.modalInfo{
+    width: 400px;
+    height: 400px;
+    background: #fffbfb;
+    padding: 10px;
+}
+.form_Wrapper{
+    margin-top: 50px;
+    border: 2px solid red;
+}
